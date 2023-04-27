@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KunalMaverick
+- 👋 Hi, I’m Kunal Kishore
 - 👀 I’m interested in Embedded Systems,Computer Architecture,Hardware engineeering & Security,AI and Neural Networks.
 - 🌱 I’m currently a ECE student in PESU
 - 💞️ I’m looking to collaborate on anything thats Electronics or AI
